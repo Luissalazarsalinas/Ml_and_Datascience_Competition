@@ -1,1 +1,1 @@
-# Ml_and_Datascience_Competition
+# Machine Learning and Data Science Competition
