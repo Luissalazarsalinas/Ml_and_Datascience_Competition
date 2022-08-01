@@ -6,3 +6,10 @@
 * **Competition's link**: [zindi](https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge)
 
 [NoteBook](https://github.com/Luissalazarsalinas/Ml_and_Datascience_Competition/blob/master/Zindi/Tanzania_Tourism_Classification_Challenge.ipynb)
+
+## Alvin Smart Money Management Classification Challenge
+* **Platform**: Zindi
+* **Question**: Can you classify purchases recorded on Alvin into different categories?
+* **Competition's link**: [zindi](https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge)
+
+[NoteBook](https://github.com/Luissalazarsalinas/Ml_and_Datascience_Competition/blob/master/Zindi/Tanzania_Tourism_Classification_Challenge.ipynb)
