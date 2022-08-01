@@ -12,4 +12,4 @@
 * **Question**: Can you classify purchases recorded on Alvin into different categories?
 * **Competition's link**: [zindi](https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge)
 
-[NoteBook](https://github.com/Luissalazarsalinas/Ml_and_Datascience_Competition/blob/master/Zindi/Tanzania_Tourism_Classification_Challenge.ipynb)
+[NoteBook](https://github.com/Luissalazarsalinas/Ml_and_Datascience_Competition/blob/master/Zindi/AlvinAPP_Challenge.ipynb)
